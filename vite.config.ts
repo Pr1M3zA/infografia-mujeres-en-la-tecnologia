@@ -7,4 +7,5 @@ export default defineConfig({
   plugins: [
     react(), tailwindcss()
   ],
+   base: '/infografia-mujeres-en-la-tecnologia/'
 })
